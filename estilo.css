@@ -1,0 +1,39 @@
+/* Styles for the container */
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+/* Styles for the table */
+.table-borderless {
+    border: none;
+}
+
+/* Styles for the images */
+img {
+    margin: auto;
+    display: block;
+}
+
+/* Styles for the headings */
+h3 {
+    margin: 0;
+    font-family: "Times New Roman";
+}
+
+h4 {
+    margin: 0;
+    font-family: "Times New Roman";
+}
+
+input {
+    margin-right: 30px;
+    width: 50px;
+}
+
+fieldset {
+    width: 200px;
+    padding: 10px;
+}
